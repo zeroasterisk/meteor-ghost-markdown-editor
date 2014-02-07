@@ -1,0 +1,5 @@
+[submodule "lib/ghost-markdown-editor"]
+	path = lib/ghost-markdown-editor
+	url = https://github.com/timsayshey/Ghost-Markdown-Editor.git
+
+
