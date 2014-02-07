@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Ghost Markdown Editor. See https://github.com/timsayshey/Ghost-Markdown-Editor."
+  summary: "Ghost Markdown Editor for Metor. See https://github.com/timsayshey/Ghost-Markdown-Editor."
 });
 
 Package.on_use(function (api, where) {

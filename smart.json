@@ -1,6 +1,6 @@
 {
-  "name": "meteor-ghost-markdown-editor",
-  "description": " Ghost Markdown Editor. See https://github.com/timsayshey/Ghost-Markdown-Editor.",
+  "name": "ghost-markdown-editor",
+  "description": "Ghost Markdown Editor for Meteor. See https://github.com/timsayshey/Ghost-Markdown-Editor.",
   "homepage": "https://github.com/zeroasterisk/meteor-ghost-markdown-editor",
   "author": "Alan Blount <zeroasterisk@gmail.com> (https://github.com/zeroasterisk/)",
   "version": "0.0.1",
